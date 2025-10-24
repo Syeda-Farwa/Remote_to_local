@@ -64,11 +64,8 @@ $max_date  = date("Y-m-d\TH:i", strtotime("+4 months"));
       padding: 10px;
       font-weight: 600;
     }
-    .btn-secondary {
-      border-radius: 8px;
-      padding: 8px;
-      margin-top: 10px;
-    }
+   
+ 
     h2 {
       font-weight: bold;
     }
